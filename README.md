@@ -8,7 +8,7 @@ For http(s) resources wait-on will check that the requests are returning 2XX (su
 
 wait-on can also be used in reverse mode which waits for resources to NOT be available. This is useful in waiting for services to shutdown before continuing. (Thanks @skarbovskiy for adding this feature)
 
-[![Build Status](https://secure.travis-ci.org/jeffbski/wait-on.png?branch=master)](http://travis-ci.org/jeffbski/wait-on)
+[![Build Status](https://secure.travis-ci.org/jeffbski/wait-on.png?branch=master)](http://travis-ci.org/jeffbski/wait-on) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/jeffbski--wait-on.svg)](https://www.staging.guardrails.io)
 
 ## Installation
 
